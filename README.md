@@ -28,10 +28,14 @@ Self-supervised Learning, Image Reconstruction, Eye Movements, Visual Attention,
 5. **Comparative Analysis:** Evaluating the impact of visual-attention-based patch selection on reconstruction quality and alignment with human perception.
 
 **Qualitative Comparative Analysis**
+
+
 ![Qualitative results](./imgs/sal_ratio_viz.png)
 
 
 **Quantitative Comparative Analysis**
+
+
 ![Quantitative results](./imgs/quant_results.png)
 
 ## Getting Started
