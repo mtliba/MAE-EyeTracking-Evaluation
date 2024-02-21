@@ -31,17 +31,21 @@ Self-supervised Learning, Image Reconstruction, Eye Movements, Visual Attention,
 ## Getting Started
 
 # Download the MIT1003 dataset
+```bash
 wget https://people.csail.mit.edu/tjudd/WherePeopleLook/ALLSTIMULI.zip-O 
 
 wget https://people.csail.mit.edu/tjudd/WherePeopleLook/DATA.zip
 
 wget https://people.csail.mit.edu/tjudd/WherePeopleLook/ALLFIXATIONMAPS.zip
+```
 
 # Unzip the dataset
+```bash
 unzip ALLSTIMULI.zip -d path/to/destination
 
 unzip DATA.zip -d path/to/destination
 
 unzip ALLFIXATIONMAPS.zip -d path/to/destination
+```
 
 Run the notebook, and change the paths based on your the MIT1003 dataset location
