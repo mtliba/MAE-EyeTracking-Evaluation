@@ -48,4 +48,5 @@ unzip DATA.zip -d path/to/destination
 unzip ALLFIXATIONMAPS.zip -d path/to/destination
 ```
 
-Run the notebook, and change the paths based on your the MIT1003 dataset location
+Run the notebook, and change the paths based on your MIT1003 dataset location.
+
